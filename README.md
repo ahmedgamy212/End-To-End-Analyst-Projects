@@ -103,5 +103,5 @@ An online retail business needs to understand **customer behavior, revenue patte
 - **Business Thinking:** Every analysis answers a specific commercial question
 
 ## 📬 Contact
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/ahmed-gamal-67046739a?]
+- Email: [Ahmedgamy442@gmail.com]
